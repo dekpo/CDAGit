@@ -1,2 +1,4 @@
 readme.txt
-
+machintruc-a-ignorer.txt
+# je veux ignorer tous les fichiers txt
+*.txt
